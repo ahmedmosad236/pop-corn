@@ -16,4 +16,4 @@ write in terminal : npm start run
 See the live demo of the Wild-Oasis Quiz App: [demo](https://pop-corn-ahmed.netlify.app/)
 
 ## Contact
-If you have any questions or want to get in touch, you can find me on LinkedIn: https://www.linkedin.com/in/ahmed-mosad-5ab36b285/
+If you have any questions or want to get in touch, you can find me on LinkedIn:[LinkedIn](https://www.linkedin.com/in/ahmed-mosad-5ab36b285/)
